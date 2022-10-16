@@ -1,0 +1,123 @@
+/*body {
+    width: 100%;
+	height: 100%;
+	background-image: url(../images/fon3.jpg);
+}*/
+
+ .block1 {
+
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+ 
+.block2 {
+ 
+   
+    margin-top: 2%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+ 
+}
+
+.btn1{
+    width: 10%;
+    height: 30%;
+    background: #4830F0;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 1% 2%;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to left, #4830F0 0%, #9EEFE1 49%, #4830F0 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+
+.btn1:hover{
+    background-position: right center;
+}
+
+.btn2{
+    width: 10%;
+    height: 10%;
+    background: #d6eaf8;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 100% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+
+.btn2:hover{
+    background-position: right center;
+} 
+ #gradient-btn2 {
+    background: #d6eaf8;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+  #gradient-btn2:hover {
+    background-position: right center;
+  } 
+
+
+ #gradient-btn1 {
+    background: #d6eaf8;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+  #gradient-btn1:hover {
+    background-position: right center;
+  } 
+
+
+   table {
+    width: 50vh;
+    border-collapse: collapse;
+    border: 2px solid transparent;
+    text-align: center;
+    margin-top: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+  } 
